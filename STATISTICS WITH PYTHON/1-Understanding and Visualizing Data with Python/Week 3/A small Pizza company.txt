@@ -1,0 +1,29 @@
+A small Pizza company 
+
+The different variables that should be recorded:
+1. the contents of the recipe of making a pizza, such as: bread, cheese, tomato, etc. (categorical)
+2. how much the company buys each of this contents.(numerical)
+3. how much it cost the compony to buy each of these. (numerical)
+4. How much time it takes to make a pizza? (numerical)
+5. how much time it take to dillever a pizza to the customer. (if ordered)
+6. the size of the resturant. (numerical)
+7. where is the comany on the map? in a crowded place, an empty one, ... (categorical)
+8. Is there any neer pizza company or pizza resturants? (categorical)
+9. Is it easy for each one to reqach this pizza compnay? (categorical)
+10. the selling process $$ over the time. (months, days, during the day), when the compny being pusy of the ordered or it's arleady full of customers. (numerical)
+
+the research questions:
+1. is the company making its best profit?
+	- we can see the relationship between the cost of the content of making a pizza VS the price of the pizza (to the customer).
+	a scatter plot.
+	
+	- we can see the relationship between the population of
+	the city VS the the place of the company. (the more crowded place should bring more people then more money)
+	
+2.  customer satisfaction:
+	- we can see the relationship between the time of the order VS the time of the diliver.
+	a scatter plot.
+
+which graphical and numerical summaries you would report or possibly use in the ad?
+we could use:
+1. the relationship between the time of the order VS the time of the dilliver. to show how fast are we.
