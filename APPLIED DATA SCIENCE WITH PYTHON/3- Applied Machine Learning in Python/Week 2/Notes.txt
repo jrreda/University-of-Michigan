@@ -1,0 +1,17 @@
+•ridge regression model: Higher alpha means more regularization and simpler models.
+
+Regularization for SVMs: the C parameter
+	• The strength of regularization is determined by C
+	• Larger values of C & gamma: less regularization
+		– Fit the training data as well as possible
+		– Each individual data point is important to classify correctly
+	• Smaller values of C & gamma: more regularization
+		– More tolerant of errors on individual data points
+• Typically C and gamma are tuned at the same time.
+
+• The only difference from Ridge regression is that the regularization term is in absolute value.
+Lasso method overcomes the disadvantage of Ridge regression by not only punishing high values of the coefficients β but actually setting them to zero if they are not relevant.
+
+• When to use ridge vs lasso regression:
+	– Many variables with small/medium sized effects: use ridge.
+	– Only a few variables with medium/large effect: use lasso.
