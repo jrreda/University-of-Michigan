@@ -1,0 +1,68 @@
+Note:
+	the p-value is 0.001. This indicates there is a 0.1% chance that these results are due to randomness
+
+My Solution:
+	Dark Chocolate versus White Chocolate:
+
+	Although this sample size is small (only 9 male participants), We can consider it a reasonable one for this type of
+	study, and We can thus focus on interpreting the results, during the different two-week time periods. 
+
+
+	Distance Covered (in meters = m) during Time Trial* Note: n = 9 for each condition
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	| 	  		  | Baseline  | White Chocolate (WC)  |  Dark Chocolate (DC)|
+	| Mean (m)	  | 1367	  | 1419                  |  1606				|
+	| Std dev (m) | 171	      | 248	         		  |  158				|
+	| p-value     | -	      | 0.319	              | 0.001				|
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+	from this study we found:
+	1. Dark Chocolate: 95% Confidence Interval for the population average change in total distance covered (dark chocolate over baseline) is 165 m to 314 m; (p-value 0.001).
+	this means, we are confident that if we repeated the study over and over again many times under the same conditions we will be 95% confident that the distance made by the bicycler will lie between 165 m to 314 m.
+
+	2. Dark versus White Chocolate: 95% Confidence Interval for the population average change in total distance covered (dark chocolate over white chocolate) is 82 m to 292 m; (p-value = 0.003).
+
+	from these two confidence intervals we can say that the dark chocolate has total distance bigger than the white chocolate, because on the same conditions for both chocolates study we found:
+	1. the mean of the Darck chocolate (1606) is bigger than the White chocolate (1419)
+	2. the standered deviation of the Darck chocolate (158) is less than the White chocolate (248)
+	3. the lower boundry of the Dark chocolate Confidence Interval (165) is bigger than the Darck versus white Confidence Interval (82).
+	4. the lower boundry of the Dark chocolate Confidence Interval (314) is bigger than the Darck versus white Confidence Interval (292).
+
+	So, we can say that the Dark chocolate is the etter choice for the bicycle team as it helps them to increase their distance throught the Tour De France on their bikes.
+
+	Data is from: Patel, R. K.; Brouner, J.; Spendiff, O. Journal of the International Society of Sports Nutrition. 2015 12:47.
+
+------------------------------------------------------------------------------------------------------------------
+
+Another Solution:
+	TO: Johanna Smith, Personal Trainer
+
+	FROM: Stefania Rosso, Statistical Consultant
+
+	DATE: April 13, 2019
+
+	SUBJECT: Effects of Dark and White Chocolate Consumption in Cycling Performance
+
+	A correct choice of different foods and meals is a matter of importance in order to optimize the cycling performance for Le Tour-de-France. The efficiency of the overall diet can be measured in different variables but, for this case, we are focused on sprint performance, in meters. Past studies have suggested an effect of white and dark chocolate consumption on cyclists' performance, and in this document I will give you an insight on the resulting numbers.
+
+	Average sprint performance
+
+	The study mentioned above showed that, in average, a cyclist sprints 1367 meters in 2 minutes. This is based on observations of 9 athletes, with a margin of error of approximately 404 meters.
+
+	The athletes were asked to consume 40 grams of dark chocolate (Dove) for 2 weeks and then, their average sprint was 1606 meters in 2 minutes.
+
+	The final experiment was asking the athletes to quit dark chocolate and start consuming 40 grams of white chocolate (Milky Way), and at the end of 2 weeks their average sprint was 1419 meters in 2 minutes.
+
+	Influence of Dark Chocolate in Athletes' Diet
+
+	The results showed above need to consider a margin of error which, in this case, is significant. Although the average difference between the performance with dark chocolate consumption vs baseline showed was 239 meters, it is very important to consider that our obtained confidence interval was (165,314). This means that there might be a difference of 314 meters, which, considering our average performance with dark chocolate was 1606 meters and our baseline 1367, there would be a negative impact on the sprint performance, decreasing it by 75 meters, thus not giving proper information about a relevant difference, even when in average the difference is higher.
+
+	Influence of White Chocolate in Athlete's Diet
+
+	The results showed above need to consider a margin of error which, in this case, is also significant. The first value is the average performance, which was 1419 meters with white chocolate and 1367 without white chocolate. Although the average difference between the performance with dark chocolate consumption vs white chocolate consumption showed was 187 meters, our obtained confidence interval of the performance difference was (82,292). Considering this difference only, white chocolate decreased sprint performance in 187 meters in average. The confidence interval indicates that there might be an average difference as high as 292, or as low as 82 meters. This numbers also don't give enough information to determine if there is, in fact, a significant difference.
+
+	Recommendations
+
+	This crossover study was an interesting approach, since it gives the opportunity of observing if there are or there are not important differences between two different treatments. However, the results of this investigation do not tell us enough information to decide if there is or if there is not a benefit with the consumption of either dark or white chocolate, although the sprint performance means where different, because the confidence intervals showed that the results obtained were too different between each athlete. I recommend repeating the study, but with a larger group of athletes. So far, the results were not conclusive.
+
+	Data is from: Patel, R. K.; Brouner, J.; Spendiff, O. Journal of the International Society of Sports Nutrition. 2015 12:47
