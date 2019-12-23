@@ -1,0 +1,39 @@
+One Population Proportion
+
+Sample can be considered a simple random sample
+Large enough sample size ()
+Confidence Interval: At least 10 of each outcome ()
+Hypothesis Test: At least 10 of each outcome ()
+--------------------------------------------------------------------
+
+Two Population Proportions
+
+Samples can be considered two simple random samples
+Samples can be considered independent of one another
+Large enough sample sizes ()
+Confidence Interval: At least 10 of each outcome ()
+Hypothesis Test: At least 10 of each outcome () - Where (the common population proportion estimate)
+--------------------------------------------------------------------
+
+One Population Mean
+
+Sample can be considered a simple random sample
+Sample comes from a normally distributed population
+This assumption is less critical with a large enough sample size (application of the C.L.T.)
+--------------------------------------------------------------------
+
+One Population Mean Difference
+
+Sample of differences can be considered a simple random sample
+Sample of differences comes from a normally distributed population of differences
+This assumption is less critical with a large enough sample size (application of the C.L.T.)
+--------------------------------------------------------------------
+
+Two Population Means
+
+Samples can be considered a simple random samples
+Samples can be considered independent of one another
+Samples each come from normally distributed populations
+This assumption is less critical with a large enough sample size (application of the C.L.T.)
+Populations have equal variances – pooled procedure used
+If this assumption cannot be made, unpooled procedure used
