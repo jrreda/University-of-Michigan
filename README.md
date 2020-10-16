@@ -28,6 +28,6 @@ Practical and Modern Statistical Thinking For All.
 Use Python for statistical visualization, inference, and modeling.
 See all detalis [here](https://www.coursera.org/specializations/statistics-with-python).
 
-1. [https://www.coursera.org/learn/understanding-visualization-data](https://www.coursera.org/learn/understanding-visualization-data)  
+1. [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
 2. [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)  
 3. [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
